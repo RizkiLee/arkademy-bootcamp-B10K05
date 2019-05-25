@@ -23,4 +23,6 @@ function ganti_kata($kata, $char1, $char2)
 ?>
 
 <?= ganti_kata("riski lee",'s','z'); ?> <br>
-<?= ganti_kata("arcademy", 'c', 'k'); ?>
+<?= ganti_kata("arcademy", 'c', 'k'); ?> <br>
+<?= ganti_kata("msds dwi", 's', 'a'); ?> <br>
+<?= ganti_kata("purwakarta", 'a', 'o'); ?>
